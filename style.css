@@ -1,0 +1,23 @@
+/*
+style.css
+---------
+ 
+Par Sabine Lambard
+*/
+ 
+h2, span
+{
+    color: saddlebrown; /* Les paragraphes seront en bleu */
+}
+h1
+{
+    color: sandybrown; /* Les paragraphes seront en bleu */
+}
+*
+{
+color: rosybrown; 
+}
+.introduction
+{
+color: indianred;
+}
